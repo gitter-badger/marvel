@@ -1,5 +1,7 @@
 # Marvel 
 
+[![Join the chat at https://gitter.im/lodestone/marvel](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/lodestone/marvel?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 *Ruby [Marvel Comics API](http://developer.marvel.com) library*
 
 > *Excelsior!*
